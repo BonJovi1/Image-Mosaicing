@@ -1,6 +1,6 @@
 # Image-Mosaicing
 
-The notebook may take a long time to load on GitHub. Use the jupyter notebook viewer: [nbviewer](https://nbviewer.jupyter.org/github/BonJovi1/Image-Mosaicing/blob/master/code.ipynb) \
+The notebook may take a long time to load on GitHub. Use the jupyter notebook viewer: [**nbviewer**](https://nbviewer.jupyter.org/github/BonJovi1/Image-Mosaicing/blob/master/code.ipynb) \
 Estimating the homography between images and stitching them together to form a panorama. Stereo correspondences are computed using various techniques to understand stereo calibration. 
 
 ### Image Stitching
