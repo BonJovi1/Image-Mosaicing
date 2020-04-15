@@ -7,6 +7,14 @@ Estimating the homography between images and stitching them together to form a p
 3. We then stitch the two images together.
 4. And we repeat this for multiple images to produce a singly mosaic/panorama.
 
+We get something like this:
+
+![](./results/final_img_1.png)
+
+A nice mosaic of the amphitheatre at IIIT. 
+
+![](./results/final_img_amphi.png)
+
 ### Stereo Correspondences
 - We perform Intensity Window-based correlation on the given pair of images.
 - We rectify the pairs of images and with these new images, and then again perform intensity window-based correlation. 
